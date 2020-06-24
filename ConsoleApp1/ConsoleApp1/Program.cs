@@ -4,7 +4,8 @@ namespace ConsoleApp1
 {
     class Program
     {
-        static void Main(string[] args)
+        [STAThread]
+        public static void Main()
         {
             Console.WriteLine("Hello World!");
         }
