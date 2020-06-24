@@ -1,0 +1,12 @@
+C:\GitRepos\core\AWSLambda1\bin\Debug\netcoreapp3.1\AWSLambda1.deps.json
+C:\GitRepos\core\AWSLambda1\bin\Debug\netcoreapp3.1\AWSLambda1.runtimeconfig.json
+C:\GitRepos\core\AWSLambda1\bin\Debug\netcoreapp3.1\AWSLambda1.runtimeconfig.dev.json
+C:\GitRepos\core\AWSLambda1\bin\Debug\netcoreapp3.1\AWSLambda1.dll
+C:\GitRepos\core\AWSLambda1\bin\Debug\netcoreapp3.1\AWSLambda1.pdb
+C:\GitRepos\core\AWSLambda1\obj\Debug\netcoreapp3.1\AWSLambda1.csprojAssemblyReference.cache
+C:\GitRepos\core\AWSLambda1\obj\Debug\netcoreapp3.1\AWSLambda1.csproj.CoreCompileInputs.cache
+C:\GitRepos\core\AWSLambda1\obj\Debug\netcoreapp3.1\AWSLambda1.AssemblyInfoInputs.cache
+C:\GitRepos\core\AWSLambda1\obj\Debug\netcoreapp3.1\AWSLambda1.AssemblyInfo.cs
+C:\GitRepos\core\AWSLambda1\obj\Debug\netcoreapp3.1\AWSLambda1.dll
+C:\GitRepos\core\AWSLambda1\obj\Debug\netcoreapp3.1\AWSLambda1.pdb
+C:\GitRepos\core\AWSLambda1\obj\Debug\netcoreapp3.1\AWSLambda1.genruntimeconfig.cache
